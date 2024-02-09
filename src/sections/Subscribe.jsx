@@ -12,7 +12,7 @@ const Subscribe = () => {
       <div className="w-full p-2.5 flex gap-5 items-center max-sm:flex-col lg:max-w-[40%] lg:gap-2 sm:border sm:border-slate-gray rounded-full">
         <input className="input" type="text" placeholder="subscribe@nike.com" />
         <div className="flex flex-shrink-0 items-center max-sm:w-full max-sm:justify-end">
-          <Button label="Sign up" fullWidth />
+          <Button label="Sign Up" fullWidth />
         </div>
       </div>
     </div>
