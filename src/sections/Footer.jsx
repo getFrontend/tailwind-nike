@@ -51,7 +51,7 @@ const Footer = () => {
             width={20}
             height={20}
           />
-          <p>Copyright. All rights reserved.</p>
+          <p>Copyright. All rights reserved, 2024.</p>
         </div>
         <a className="hover:text-slate-gray" href="#!">Terms & Conditions</a>
       </div>
